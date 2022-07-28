@@ -5,4 +5,4 @@ An Android application that displays the multiplication table for all the number
 !['Default Screen'](landingPage.png)
 
 ## Using the Slider to see the Table of 20
-!['Table of Twenty'](landingPage.png)
+!['Table of Twenty'](tableTwenty.png)
