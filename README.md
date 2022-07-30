@@ -15,3 +15,6 @@ An Android application that displays the multiplication table for all the number
 
 ## Using the Slider to see the Table of 67
 !['Table of 67'](table67.png)
+
+## Using the Slider to see the Table of 80
+!['Table of 80'](table80.png)
