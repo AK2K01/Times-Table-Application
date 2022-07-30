@@ -18,3 +18,6 @@ An Android application that displays the multiplication table for all the number
 
 ## Using the Slider to see the Table of 80
 !['Table of 80'](table80.png)
+
+## Using the Slider to see the Table of 88
+!['Table of 88'](table88.png)
