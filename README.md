@@ -9,3 +9,6 @@ An Android application that displays the multiplication table for all the number
 
 ## Using the Slider to see the Table of 31
 !['Table of Twenty'](table31.png)
+
+## Using the Slider to see the Table of 45
+!['Table of Twenty'](table45.png)
